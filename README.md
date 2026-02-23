@@ -1,12 +1,12 @@
 # Teste Analytics — Quod
-Candidato: [Seu Nome Completo]
+Candidato: Maria Cleane Vidal Furtado
 
 Repositório com a solução completa do Teste para Estagiário de Analytics da Quod.
 
 ## Estrutura do Repositório
 
 ```
-Teste_Analytics_NomeSobrenome/
+Teste_Analytics_CleaneVidal/
 │
 ├── 1_simulacao_limpeza.py       # Parte 1 – Tarefa 1: simulação e limpeza
 ├── 2_analise_exploratoria.py    # Parte 1 – Tarefa 2: EDA e visualizações
