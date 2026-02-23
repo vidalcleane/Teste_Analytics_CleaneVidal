@@ -1,0 +1,121 @@
+ID,Data,Produto,Categoria,Setor_Cliente,Quantidade,Preço,Total_Vendas
+1,2023-11-24,Cadastro Positivo,Análise de Crédito,Seguros,13,291.09,3784.17
+2,2023-02-27,Quod Score PF,Análise de Crédito,Seguros,5,514.11,2570.55
+3,2023-01-13,Quod Score PJ,Análise de Crédito,Seguros,7,716.01,5012.07
+4,2023-05-21,Quod Score PJ,Análise de Crédito,Varejo,7,619.9,4339.3
+5,2023-05-06,Quod Identity,Prevenção a Fraude,Varejo,9,621.21,5590.89
+6,2023-04-25,Quod X Antifraude,Prevenção a Fraude,Financeiro,5,951.53,4757.65
+7,2023-03-13,Cadastro Positivo,Análise de Crédito,Financeiro,11,282.51,3107.61
+8,2023-02-22,Quod Score PF,Análise de Crédito,Varejo,7,495.25,3466.75
+9,2023-12-13,Cadastro Positivo,Análise de Crédito,E-commerce,13,279.43,3632.59
+10,2023-10-07,Quod X Antifraude,Prevenção a Fraude,E-commerce,5,854.65,4273.25
+11,2023-02-14,Quod Score PJ,Análise de Crédito,E-commerce,9,632.33,5690.97
+12,2023-10-30,Quod X Antifraude,Prevenção a Fraude,Seguros,11,941.57,10357.27
+13,2023-08-05,Cobrança as a Service,Cobrança,Financeiro,4,794.33,3177.32
+14,2023-01-17,Cadastro Positivo,Análise de Crédito,Financeiro,7,301.46,2110.22
+15,2023-01-16,Cadastro Positivo,Análise de Crédito,Seguros,12,296.66,3559.92
+16,2023-02-17,Cadastro Positivo,Análise de Crédito,Telecom,6,288.29,1729.74
+17,2023-04-22,Quod Score PF,Análise de Crédito,E-commerce,11,409.15,4500.65
+18,2023-04-30,Quod Score PF,Análise de Crédito,Financeiro,6,460.06,2760.36
+19,2023-09-16,Quod Identity,Prevenção a Fraude,Telecom,10,643.12,6431.2
+20,2023-11-05,Quod Identity,Prevenção a Fraude,Varejo,9,527.91,4751.19
+21,2023-01-14,Quod X Antifraude,Prevenção a Fraude,Financeiro,6,986.92,5921.52
+22,2023-10-15,Cobrança as a Service,Cobrança,Telecom,6,696.28,4177.68
+23,2023-04-12,Cobrança as a Service,Cobrança,Seguros,12,740.48,8885.76
+24,2023-11-29,Quod X Antifraude,Prevenção a Fraude,Varejo,12,865.17,10382.04
+25,2023-12-26,Quod Score PJ,Análise de Crédito,Varejo,15,613.56,9203.4
+26,2023-10-07,Quod X Antifraude,Prevenção a Fraude,Seguros,11,977.95,10757.45
+27,2023-08-03,Cobrança as a Service,Cobrança,Seguros,9,752.0,6768.0
+28,2023-04-23,Quod Score PJ,Análise de Crédito,Financeiro,10,734.82,7348.2
+29,2023-08-18,Quod Score PF,Análise de Crédito,Telecom,7,406.74,2847.18
+30,2023-10-29,Cobrança as a Service,Cobrança,Telecom,16,856.25,13700.0
+31,2023-05-23,Quod Score PF,Análise de Crédito,Varejo,11,474.19,5216.09
+32,2023-01-04,Cobrança as a Service,Cobrança,Financeiro,14,824.68,11545.52
+33,2023-03-23,Quod Score PF,Análise de Crédito,E-commerce,8,452.41,3619.28
+34,2023-12-24,Cadastro Positivo,Análise de Crédito,Seguros,11,324.79,3572.69
+35,2023-08-05,Cadastro Positivo,Análise de Crédito,Varejo,4,319.47,1277.88
+36,2023-06-24,Quod X Antifraude,Prevenção a Fraude,Seguros,9,952.35,8571.15
+37,2023-05-23,Quod Score PF,Análise de Crédito,Seguros,9,513.3,4619.7
+38,2023-03-21,Cobrança as a Service,Cobrança,E-commerce,9,854.04,7686.36
+39,2023-04-21,Quod Identity,Prevenção a Fraude,Seguros,7,538.83,3771.81
+40,2023-06-22,Cadastro Positivo,Análise de Crédito,Varejo,5,317.1,1585.5
+41,2023-02-22,Cadastro Positivo,Análise de Crédito,E-commerce,6,308.03,1848.18
+42,2023-02-17,Quod Identity,Prevenção a Fraude,Telecom,7,606.94,4248.58
+43,2023-07-14,Quod Score PJ,Análise de Crédito,Seguros,11,629.13,6920.43
+44,2023-02-19,Quod Score PJ,Análise de Crédito,Varejo,3,666.23,1998.69
+45,2023-07-03,Quod Score PF,Análise de Crédito,Telecom,6,503.72,3022.32
+46,2023-06-26,Quod Score PF,Análise de Crédito,Seguros,13,489.47,6363.11
+47,2023-11-06,Quod Score PF,Análise de Crédito,Varejo,13,506.54,6585.02
+48,2023-05-16,Quod Score PF,Análise de Crédito,Financeiro,7,440.92,3086.44
+49,2023-01-23,Quod Score PF,Análise de Crédito,Financeiro,12,411.48,4937.76
+50,2023-08-24,Cobrança as a Service,Cobrança,Financeiro,8,690.77,5526.16
+51,2023-10-02,Quod X Antifraude,Prevenção a Fraude,Telecom,12,1017.03,12204.36
+52,2023-03-05,Quod X Antifraude,Prevenção a Fraude,Varejo,10,847.21,8472.1
+53,2023-07-13,Quod X Antifraude,Prevenção a Fraude,Seguros,6,935.79,5614.74
+54,2023-02-10,Quod X Antifraude,Prevenção a Fraude,Varejo,5,1049.3,5246.5
+55,2023-10-10,Cadastro Positivo,Análise de Crédito,E-commerce,9,346.32,3116.88
+56,2023-05-31,Quod Score PF,Análise de Crédito,Financeiro,4,452.41,1809.64
+57,2023-11-18,Quod X Antifraude,Prevenção a Fraude,Telecom,5,1050.94,5254.7
+58,2023-11-13,Quod Score PJ,Análise de Crédito,E-commerce,11,730.28,8033.08
+59,2023-07-05,Cobrança as a Service,Cobrança,Financeiro,10,710.27,7102.7
+60,2023-10-23,Quod X Antifraude,Prevenção a Fraude,Financeiro,10,962.24,9622.4
+61,2023-04-09,Quod Score PF,Análise de Crédito,Telecom,13,452.05,5876.65
+62,2023-12-27,Cadastro Positivo,Análise de Crédito,Financeiro,16,282.5,4520.0
+63,2023-02-05,Quod Score PF,Análise de Crédito,Varejo,6,514.12,3084.72
+64,2023-01-24,Quod X Antifraude,Prevenção a Fraude,Varejo,14,931.63,13042.82
+65,2023-12-05,Quod Score PJ,Análise de Crédito,Telecom,11,726.19,7988.09
+66,2023-04-27,Quod Score PJ,Análise de Crédito,Financeiro,11,634.78,6982.58
+67,2023-05-29,Quod Score PJ,Análise de Crédito,Seguros,5,614.47,3072.35
+68,2023-02-10,Quod Score PF,Análise de Crédito,Seguros,12,509.24,6110.88
+69,2023-04-30,Cobrança as a Service,Cobrança,Financeiro,8,699.16,5593.28
+70,2023-02-21,Cobrança as a Service,Cobrança,Varejo,4,739.81,2959.24
+71,2023-07-14,Quod Score PF,Análise de Crédito,E-commerce,6,452.41,2714.46
+72,2023-05-23,Quod Score PJ,Análise de Crédito,E-commerce,4,673.93,2695.72
+73,2023-08-21,Cobrança as a Service,Cobrança,Varejo,8,726.91,5815.28
+74,2023-11-22,Quod Score PJ,Análise de Crédito,E-commerce,7,674.98,4724.86
+75,2023-07-06,Quod Score PF,Análise de Crédito,E-commerce,7,505.71,3539.97
+76,2023-03-25,Quod Score PF,Análise de Crédito,Seguros,7,407.26,2850.82
+77,2023-07-09,Quod X Antifraude,Prevenção a Fraude,E-commerce,9,951.53,8563.77
+78,2023-07-01,Quod Score PF,Análise de Crédito,Telecom,8,515.98,4127.84
+79,2023-04-18,Quod Score PF,Análise de Crédito,Financeiro,5,425.99,2129.95
+80,2023-12-10,Quod X Antifraude,Prevenção a Fraude,Seguros,8,1034.26,8274.08
+81,2023-05-17,Quod Score PF,Análise de Crédito,Telecom,9,424.22,3817.98
+82,2023-12-26,Quod Score PF,Análise de Crédito,Seguros,11,436.5,4801.5
+83,2023-12-16,Quod Score PJ,Análise de Crédito,Seguros,10,667.03,6670.3
+84,2023-11-28,Quod Score PF,Análise de Crédito,Seguros,10,432.27,4322.7
+85,2023-02-06,Quod Score PF,Análise de Crédito,Varejo,7,442.87,3100.09
+86,2023-11-08,Quod Score PF,Análise de Crédito,Financeiro,6,516.37,3098.22
+87,2023-11-22,Quod X Antifraude,Prevenção a Fraude,Varejo,9,886.57,7979.13
+88,2023-03-29,Quod Score PJ,Análise de Crédito,Seguros,12,623.3,7479.6
+89,2023-10-01,Quod Score PF,Análise de Crédito,Seguros,13,499.71,6496.23
+90,2023-05-06,Quod Score PF,Análise de Crédito,Financeiro,6,463.84,2783.04
+91,2023-03-25,Quod Score PJ,Análise de Crédito,Seguros,10,764.93,7649.3
+92,2023-08-25,Quod X Antifraude,Prevenção a Fraude,Telecom,9,970.62,8735.58
+93,2023-07-14,Quod Identity,Prevenção a Fraude,Varejo,7,604.63,4232.41
+94,2023-05-19,Quod X Antifraude,Prevenção a Fraude,Telecom,9,880.73,7926.57
+95,2023-11-24,Quod Score PF,Análise de Crédito,E-commerce,12,466.06,5592.72
+96,2023-12-19,Quod Score PF,Análise de Crédito,Telecom,8,425.43,3403.44
+97,2023-10-13,Quod Score PJ,Análise de Crédito,Financeiro,16,680.14,10882.24
+98,2023-04-23,Quod Score PF,Análise de Crédito,Seguros,6,503.11,3018.66
+99,2023-12-17,Quod Identity,Prevenção a Fraude,Financeiro,16,623.01,9968.16
+100,2023-06-16,Quod Score PF,Análise de Crédito,Varejo,13,508.59,6611.67
+101,2023-01-29,Quod X Antifraude,Prevenção a Fraude,Varejo,7,904.7,6332.9
+102,2023-04-28,Quod Identity,Prevenção a Fraude,Financeiro,9,547.58,4928.22
+103,2023-01-17,Cobrança as a Service,Cobrança,Telecom,6,799.41,4796.46
+104,2023-06-11,Quod Score PF,Análise de Crédito,E-commerce,7,412.55,2887.85
+105,2023-07-25,Cobrança as a Service,Cobrança,Telecom,5,763.51,3817.55
+106,2023-05-18,Quod X Antifraude,Prevenção a Fraude,Seguros,8,869.84,6958.72
+107,2023-02-03,Quod Score PF,Análise de Crédito,Seguros,7,485.55,3398.85
+108,2023-04-19,Quod Score PF,Análise de Crédito,Financeiro,5,416.71,2083.55
+109,2023-10-18,Quod Identity,Prevenção a Fraude,Varejo,14,616.65,8633.1
+110,2023-06-11,Quod Score PF,Análise de Crédito,Financeiro,8,437.98,3503.84
+111,2023-04-19,Cadastro Positivo,Análise de Crédito,Varejo,3,281.06,843.18
+112,2023-12-02,Quod Score PF,Análise de Crédito,Seguros,7,452.41,3166.87
+113,2023-09-13,Quod Score PF,Análise de Crédito,Telecom,10,438.13,4381.3
+114,2023-07-22,Quod Score PF,Análise de Crédito,Telecom,8,435.23,3481.84
+115,2023-11-26,Quod X Antifraude,Prevenção a Fraude,Telecom,11,887.31,9760.41
+116,2023-08-23,Cobrança as a Service,Cobrança,Financeiro,6,846.43,5078.58
+117,2023-03-15,Quod Score PF,Análise de Crédito,E-commerce,8,420.4,3363.2
+118,2023-05-16,Cadastro Positivo,Análise de Crédito,Financeiro,10,291.89,2918.9
+119,2023-03-13,Quod Score PF,Análise de Crédito,Varejo,7,438.43,3069.01
+120,2023-05-07,Quod X Antifraude,Prevenção a Fraude,Telecom,7,964.87,6754.09
